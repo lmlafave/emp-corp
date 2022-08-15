@@ -1,6 +1,0 @@
-[submodule "blade-gen"]
-	path = blade-gen
-	url = ../blade-gen
-[submodule "oil-pump-data"]
-	path = oil-pump-data
-	url = ../oil-pump-data
